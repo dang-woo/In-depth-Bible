@@ -11,3 +11,4 @@
 - **모바일(안드로이드)**: [GitSyncApp](https://github.com/ViscousPot/GitSync)으로 동기화
 
 > 권장 흐름: **작업 시작 전 Pull → 작업 후 Commit & Push**
+
