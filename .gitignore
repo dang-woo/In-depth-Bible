@@ -1,4 +1,9 @@
 .obsidian/
+.gitignore
+
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json
+.obsidian/app.json
 
 # OS / editor noise
 .DS_Store
