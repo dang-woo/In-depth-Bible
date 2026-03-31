@@ -1,5 +1,6 @@
 .obsidian/
 .gitignore
+.trash
 
 .obsidian/workspace-mobile.json
 .obsidian/workspace.json
