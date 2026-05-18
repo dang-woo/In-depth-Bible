@@ -3,7 +3,8 @@
     "allow": [
       "Bash(pandoc --version)",
       "Bash(python -c \"import docx; print\\('python-docx ok'\\)\")",
-      "Bash(pip install *)"
+      "Bash(pip install *)",
+      "Bash(python *)"
     ]
   }
 }
