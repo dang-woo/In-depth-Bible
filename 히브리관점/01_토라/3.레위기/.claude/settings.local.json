@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/obsidian/dang-woo/히브리관점/01_토라/5.신명기/**)"
+    ]
+  }
+}
